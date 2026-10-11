@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # commitment-tracker
 
 Track promises, deadlines, and follow-ups -- detect unreplied messages and generate proactive nudge suggestions.
